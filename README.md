@@ -3,6 +3,7 @@
 A lightweight, Firebase-based accounting web app designed for quick journal entry management — perfect for students, professionals, and small businesses.
 
 🔗 **Live App:** [https://accountant-6685f.web.app](https://accountant-6685f.web.app)
+🔗 **Live App:** [https://dukan-b2a90.web.app/](https://dukan-b2a90.web.app/)
 
 ---
 

@@ -4,7 +4,7 @@ A lightweight, Firebase-based accounting web app designed for quick journal entr
 
 🔗 **Live App:** [https://accountant-6685f.web.app](https://accountant-6685f.web.app)
 🔗 **Live App:** [https://dukan-b2a90.web.app/](https://dukan-b2a90.web.app/)
-🔗 **ME** [https://dukan-b2a90.web.app/](https://chatgpt.com/share/695fb6c9-ba44-800e-ad96-fcb9c0fdcc1a)
+🔗 **ME** [MY AI memory](https://chatgpt.com/share/695fb6c9-ba44-800e-ad96-fcb9c0fdcc1a)
 
 ---
 
